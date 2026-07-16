@@ -16,13 +16,11 @@ This project explores the Netflix Titles dataset using Python to identify trends
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
 
 ## Key Findings
 - Movies dominate Netflix's catalog.
 - The United States contributes the highest number of titles.
 - TV-MA is the most common rating.
-- Most movies are between 91 and 120 minutes long.
 
 ## Files
 - Netflix_Data_Analysis.ipynb
